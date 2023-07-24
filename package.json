@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/DioguinhoSantos/labecommerce-backend/issues"
   },
-  "homepage": "https://github.com/DioguinhoSantos/labecommerce-backend#readme"
+  "homepage": "https://github.com/DioguinhoSantos/labecommerce-backend#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
 }
